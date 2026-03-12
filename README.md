@@ -26,10 +26,10 @@ brainfxxck achieves significant performance improvements over traditional interp
 
 Performance comparison on `mandelbrot-huge.bf`:
 
-| Implementation | Real Time | User Time |
-|----------------|-----------|-----------|
-| **brainfxxck** | **0m28.230s** | **0m29.343s** |
-| brainfuck      | 1m24.638s | 1m24.233s |
+| Implementation | Real Time |
+|----------------|-----------|
+| **brainfxxck** | **0m28.230s** |
+| brainfuck      | 1m24.638s |
 
 **Result**: brainfxxck is approximately **3x faster** than the traditional brainfuck interpreter.
 
